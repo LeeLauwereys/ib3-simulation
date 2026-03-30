@@ -1,2 +1,5 @@
-# ib3-simulation
-Simulates an inverted pendulum (2D bicycle) with two forces that represent drone motor.
+Only for win32_directx11
+if you want different version np ask me.
+
+It represents a model of a bicycle but with a pid controlled actuator that provides a thrust force horizontally on setpoint.
+
