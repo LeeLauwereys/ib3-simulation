@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lauwe/Self-driving-bicycle-2025-2026/src/balance/simulatie/resource.h
+
+C:/Users/lauwe/Self-driving-bicycle-2025-2026/src/balance/simulatie/resource.rc
+resource.h
+C:/Users/lauwe/Self-driving-bicycle-2025-2026/src/balance/simulatie/resource.h
+

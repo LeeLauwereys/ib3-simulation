@@ -1,0 +1,3 @@
+"C:\Users\lauwe\AppData\Local\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\imgui_pid.dir/objects.a
+C:\Users\lauwe\AppData\Local\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\imgui_pid.dir/objects.a @CMakeFiles\imgui_pid.dir\objects1.rsp
+C:\Users\lauwe\AppData\Local\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE -g -mwindows -Wl,--whole-archive CMakeFiles\imgui_pid.dir/objects.a -Wl,--no-whole-archive -o imgui_pid.exe -Wl,--out-implib,libimgui_pid.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\imgui_pid.dir\linkLibs.rsp
